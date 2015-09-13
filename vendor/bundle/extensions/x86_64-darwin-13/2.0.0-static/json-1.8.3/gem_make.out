@@ -1,0 +1,10 @@
+/Users/gaston/.rbenv/versions/2.0.0-p645/bin/ruby -r ./siteconf20150913-9556-s4hydy.rb extconf.rb
+creating Makefile
+
+make "DESTDIR=" clean
+
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+make "DESTDIR=" install
+installing default libraries
